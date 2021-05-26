@@ -4,8 +4,11 @@
 <img src="https://github.com/AdarshKandwal/DeepFaking-Videos-/blob/main/static/img/Flowchart.png">
 <h3> Screenshots</h3>
 <img src="https://github.com/AdarshKandwal/DeepFaking-Videos-/blob/main/static/img/1.png">
+<h3> 2</h2>
 <img src="https://github.com/AdarshKandwal/DeepFaking-Videos-/blob/main/static/img/2.png">
+<h3>3</h2>
 <img src="https://github.com/AdarshKandwal/DeepFaking-Videos-/blob/main/static/img/3.png">
+<h3>4</h2>
 <img src="https://github.com/AdarshKandwal/DeepFaking-Videos-/blob/main/static/img/absolute-demo.gif">
 
 
