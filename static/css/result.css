@@ -1,0 +1,61 @@
+
+body{
+    color:aliceblue;
+    background-image: url("../../static/img/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 1.0), rgba(1, 9, 32, 0.979)), url("../../static/img/bgff");
+}
+
+h1{
+    position:relative;
+    left:30%;
+}
+
+video{
+    position:relative;
+    left:30.5%;
+}
+#wrapper { 
+    width: 920px; 
+    height: auto; 
+    margin: 0 auto;
+} 
+#home1 { 
+    width: 47.5%; 
+    height: 300px; 
+    float: left; 
+    margin-right: 5%;
+} 
+
+#home2 { 
+    width: 47.5%; 
+    height: 300px; 
+    float: left; 
+}
+#home3{
+    position:relative;
+    width: 47.5%; 
+    left:28%;
+    height: 300px; 
+    float: left; 
+}
+
+
+.clear{
+    clear: both;
+}
+
+@media (max-width:767px) {
+    #wrapper{
+        width: 100%;
+        height: auto;
+    }
+    #home1 {
+        width: 100%;
+        height: auto;
+        float: none;
+    }
+    #home2 {
+        width: 100%;
+        height: auto;
+        float: none;
+    }
+}
